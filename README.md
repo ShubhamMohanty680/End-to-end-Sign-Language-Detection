@@ -9,7 +9,7 @@
 
 
 
-#Outputs
+# Outputs
 
 For Homepage
 ![Screenshot 2023-11-17 115722](https://github.com/ShubhamMohanty680/End-to-end-Sign-Language-Detection/assets/101620532/257119b4-38db-4a4b-820b-1b961027df79)
